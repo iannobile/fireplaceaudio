@@ -48,7 +48,7 @@ For the fireplace audio file, there are plenty of quality fireplace sound files 
 
 #### Checkout the source from Github
 
-* git clone ....
+* [git clone ....](https://github.com/iannobile/fireplaceaudio.git)
 
 #### Install Requirements
 
