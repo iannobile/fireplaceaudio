@@ -1,0 +1,4 @@
+CherryPy==18.8.0
+pygame==2.1.2
+requests==2.28.2
+portend==3.1.0

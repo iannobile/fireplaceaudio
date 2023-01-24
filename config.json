@@ -1,0 +1,11 @@
+{
+    "accessory": "HTTP-LIGHTBULB",
+    "name": "Fireplace Audio",
+    "onUrl": "http://localhost:8080/api/muteoff",
+    "offUrl": "http://localhost:8080/api/muteon",
+    "statusUrl": "http://localhost:8080/api/mutestatus",
+    "brightness": {
+        "setUrl": "http://localhost:8080/api/volumeupdate/%s",
+        "statusUrl": "http://localhost:8080/api/volumestatus"
+    }
+}
